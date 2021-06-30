@@ -1,0 +1,21 @@
+.Contact {
+    display: flex;
+    flex-direction: row;
+    margin: 3px;
+    border: solid 1px black;
+    width: 600px;
+}
+.info {
+    margin: 3px;
+}
+.image {
+    margin: 3px;
+    height: 90px;
+    width: 90px;
+}
+.small-text {
+    font-size: 11px;
+}
+p {
+    margin: 0;
+}
